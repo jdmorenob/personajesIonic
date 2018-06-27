@@ -1,0 +1,8 @@
+{
+  "name": "personajes",
+  "app_id": "633d1156",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
